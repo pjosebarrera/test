@@ -1,10 +1,6 @@
 $(document).ready(function(){
-
-$("#heading").html("Hello world")	
-
-
-
-
+	$("h1").html("Hello world")
+	$("h2").css("color","blue")
 });
 
 
